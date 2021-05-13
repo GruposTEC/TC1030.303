@@ -1,0 +1,1 @@
+modos.o: modos.cpp

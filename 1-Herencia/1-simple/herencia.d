@@ -1,0 +1,1 @@
+herencia.o: herencia.cpp
