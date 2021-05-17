@@ -1,0 +1,1 @@
+diamante.o: diamante.cpp

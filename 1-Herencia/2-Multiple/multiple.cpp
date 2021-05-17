@@ -27,7 +27,8 @@ int main()
 {
     C obj;
 
-    obj.display();
+    obj.A::display();
+    obj.B::display();
 
     return 0;
 }

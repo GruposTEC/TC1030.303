@@ -1,0 +1,1 @@
+multiple.o: multiple.cpp

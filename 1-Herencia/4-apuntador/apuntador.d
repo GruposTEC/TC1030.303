@@ -1,0 +1,1 @@
+apuntador.o: apuntador.cpp

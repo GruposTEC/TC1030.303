@@ -15,12 +15,12 @@ class A
     }
 };
 
-class B :   public A
+class B :  virtual public A
 {
     
 };
 
-class C:    public A
+class C:   virtual public A
 {
     
 };
