@@ -23,14 +23,14 @@ void arreglo()
 {
     int x[] = {257,1,2,3,4};
 
-    /*int *ap =&x[0];
+    int *ap =&x[0];
     
     for(int i = 0 ; i < 5 ; i++)
     {
         cout << "Lo que hay en esa direc : " << *ap << endl;
         ap++;
     }
-    */
+    
 
     unsigned char *ap2 = (unsigned char *)&x[0];
 
